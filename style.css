@@ -1,5 +1,5 @@
 :root {
-    --accent: #4fa56c;
+    --accent: #222;
     --text-dark: #222;
     --text-light: #555;
     --bg-light: #f8f9f8;
@@ -8,7 +8,7 @@
   html {
     scroll-behavior: smooth;
   }
-  
+
   body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
